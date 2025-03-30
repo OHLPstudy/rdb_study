@@ -1,7 +1,7 @@
 # 교재
 [OHLPstudy/mysql_study](https://product.kyobobook.co.kr/detail/S000001766482)
 # 일정
-4/6 일요일 - 
+4/6 일요일 
 4/12 토요일 
 4/19 토요일 - 온라인
 4/26 토요일 (석운, 진영, 수훈)
