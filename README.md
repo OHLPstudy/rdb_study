@@ -42,7 +42,7 @@ https://product.kyobobook.co.kr/detail/S000001766482
 <td align="center" width="120"><a href="https://github.com/aksen510">@aksen510</a></td>
 <td align="center" width="120"><a href="https://github.com/ParkDaeShin">@ParkDaeShin</a></td>
 <td align="center" width="120"><a href="https://github.com/JoSuhun">@JoSuhun</a></td>
-<td align="center" width="120"><a href="#">@kimtaemin</a></td>
+<td align="center" width="120"><a href="https://github.com/illchun00">@illchun00</a></td>
 
 </tr>
 </tbody>
