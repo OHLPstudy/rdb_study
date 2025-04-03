@@ -10,6 +10,11 @@ https://product.kyobobook.co.kr/detail/S000001766482
 - 각 주차 스터디원이 교재학습
 
 
+## Cloud DB 접근
+ip : 144.24.74.39
+port : 13306
+user : root
+password : 따로 공지
 
 
 ## 🤓 스터디원 🤓
