@@ -11,6 +11,7 @@ https://product.kyobobook.co.kr/detail/S000001766482
 
 
 ## Cloud DB 접근
+version : mysql 8.0
 ip : 144.24.74.39
 port : 13306
 user : root
