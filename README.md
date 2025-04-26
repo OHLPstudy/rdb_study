@@ -42,6 +42,7 @@ $ mysql -h 144.24.74.39 -uroot -P 13306 -p
 <td align="center"><img src="https://github.com/user-attachments/assets/30dd038b-00d1-4f6a-96d1-12ebfa11dbab" width="120" /></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/b2572698-4c1e-4eda-ba16-a1ade7b016b6" width="120" /></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/66dfff34-8294-43de-bbe3-b7211e96003a" width="120" /></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/886d4910-3e12-47fe-aeab-68a707719431" width="120" /></td>
 </tr>
 <tr>
 <th align="center">이석운</th>
@@ -50,6 +51,7 @@ $ mysql -h 144.24.74.39 -uroot -P 13306 -p
 <th align="center">박대신</th>
 <th align="center">조수훈</th>
 <th align="center">김태민</th>
+<th align="center">이영경</th>
 
 </tr>
 <tr>
@@ -59,6 +61,7 @@ $ mysql -h 144.24.74.39 -uroot -P 13306 -p
 <td align="center" width="120"><a href="https://github.com/ParkDaeShin">@ParkDaeShin</a></td>
 <td align="center" width="120"><a href="https://github.com/JoSuhun">@JoSuhun</a></td>
 <td align="center" width="120"><a href="https://github.com/illchun00">@illchun00</a></td>
+<td align="center" width="120"><a href="https://github.com/LeeYoungKyung">@LeeYoungKyung</a></td>
 
 </tr>
 </tbody>
