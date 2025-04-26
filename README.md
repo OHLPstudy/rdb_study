@@ -59,11 +59,13 @@ $ mysql -h 144.24.74.39 -uroot -P 13306 -p
 <td align="center" width="120"><a href="https://github.com/ohdanini">@ohdanini</a></td>
 <td align="center" width="120"><a href="https://github.com/aksen510">@aksen510</a></td>
 <td align="center" width="120"><a href="https://github.com/ParkDaeShin">@ParkDaeShin</a></td>
- <br/>
 <td align="center" width="120"><a href="https://github.com/JoSuhun">@JoSuhun</a></td>
 <td align="center" width="120"><a href="https://github.com/illchun00">@illchun00</a></td>
 <td align="center" width="120"><a href="https://github.com/LeeYoungKyung">@LeeYoungKyung</a></td>
 
+</tr>
+<tr>
+ 
 </tr>
 </tbody>
 </table>
