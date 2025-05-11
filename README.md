@@ -17,7 +17,7 @@ https://product.kyobobook.co.kr/detail/S000001766482
 - 5/31 - 온라인 
 # 스터디 방법
 - 각 주차 스터디원이 교재학습
-
+- 풀이 진행 달에 온라인 진행일 경우 issue로 등록한 게시글에 답변 피드백이 활성화 되어야 함
 
 ## Cloud DB 접근
 version : mysql 8.0
